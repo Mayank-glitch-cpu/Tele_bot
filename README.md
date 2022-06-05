@@ -4,4 +4,14 @@
 2. Search for **BotFather** on the Search bar
 3. Tap on `/start` and do as it ask you to do by making a username to name of your bot
 4. After you got all this you would get a api key store it somewhere securely
-5. Then Do as mention in my *bot.py* file
+5. Then install python telebot using `$ pip install pyTelegramBotAPI` in your terminal
+6. Alternatively can commit these directly from git 
+7. `$ git clone https://github.com/eternnoir/pyTelegramBotAPI.git`
+8. `$ cd pyTelegramBotAPI`
+9. `$ python setup.py install`
+10. or
+11. `$ pip install git+https://github.com/eternnoir/pyTelegramBotAPI.git`
+12. While the API is production-ready, it is still under development and it has regular updates, do not forget to update it regularly by calling
+13. `pip install pytelegrambotapi --upgrade`
+14. after this you are all set to write your code in {"your file name"}.py
+15. Good Luck !!
